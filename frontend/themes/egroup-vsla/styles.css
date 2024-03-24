@@ -1,0 +1,20 @@
+@import url('./main-layout.css');
+@import url('./views/dashboard2-view.css');
+@import url('./views/gridwith-filters-view.css');
+@import url('./views/master-detail-view.css');
+@import url('./views/collaborative-master-detail-view.css');    html {
+      --lumo-success-color: hsl(145, 80%, 70%);
+      --lumo-success-color-50pct: hsla(145, 80%, 70%, 0.5);
+      --lumo-success-color-10pct: hsla(145, 80%, 70%, 0.1);
+      --lumo-space-xl: 1.875rem;
+      --lumo-space-l: 1.25rem;
+      --lumo-space-m: 0.625rem;
+      --lumo-space-s: 0.3125rem;
+      --lumo-space-xs: 0.1875rem;
+      --lumo-size-xl: 3rem;
+      --lumo-size-l: 2.5rem;
+      --lumo-size-m: 2rem;
+      --lumo-size-s: 1.75rem;
+      --lumo-size-xs: 1.5rem;
+
+    }
